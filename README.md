@@ -1,5 +1,5 @@
 
-# grid-indicators
+# Grid-Indicators
 
 Hourly electricity impact intensities (EF 3.1 midpoints) for production and consumption, combining ENTSO‑E data with Brightway2/Ecoinvent lookups. Includes a script to export all consumption intensities + day‑ahead price for a full year for a given country.
 
